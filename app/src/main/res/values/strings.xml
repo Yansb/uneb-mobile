@@ -1,0 +1,8 @@
+<resources>
+    <string name="author">Yan Santana Barreiro</string>
+    <string name="app_name">Alo Mundo</string>
+    <string name="mymenu">MyApp</string>
+    <string name="name">Nome</string>
+    <string name="ok">OK</string>
+    <string name="button_pressed">Botão clicado</string>
+</resources>
